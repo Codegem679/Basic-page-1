@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+  <title>Someone</title>
+  <style>
+    body {
+      text-align: center;
+      background-image: url("https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?cs=srgb&dl=cascade-clouds-cool-wallpaper-210186.jpg&fm=jpg");
+      background-size: 110%;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="">
+  <p>Hi! I'm -NameHere-, a NYC-based marketer. Say hello!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
